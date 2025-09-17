@@ -1,0 +1,2 @@
+This is the collaborative logbook for Activity 2.
+Each developer will edit this file.
